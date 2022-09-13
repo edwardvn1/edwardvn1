@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Edward.
-- 👀 I’m interested in junior front-end development opportunities
-- 🌱 I’m currently learning Angular and have a wide range of experience in various fields.
-- 📫 Please contact me via my LinkedIn profile, https://www.linkedin.com/in/evniekerk/, and please do check out my website at http://www.edwardvanniekerk.com
-
-<!---
-edwardvn1/edwardvn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I have experience in the IT education sector and I'm skilled at creating content (both the academic content and the visual content). 
+I'm looking for the ideal opportunity to apply my admittedly unorthodox blend of experience.
+- 🌱 I’m excited about front-end development since being able to apply both my creativity and logic, is a rare combination.
+- 📫 Please contact me via my LinkedIn profile, https://www.linkedin.com/in/evniekerk/, and please do check out my website at https://www.edwardvanniekerk.com
